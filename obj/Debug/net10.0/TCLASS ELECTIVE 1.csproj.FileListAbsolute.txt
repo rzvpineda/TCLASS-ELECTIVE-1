@@ -1,0 +1,14 @@
+C:\Users\Owner\Documents\TCLASS ELECTIVE 1\bin\Debug\net10.0\TCLASS ELECTIVE 1.exe
+C:\Users\Owner\Documents\TCLASS ELECTIVE 1\bin\Debug\net10.0\TCLASS ELECTIVE 1.deps.json
+C:\Users\Owner\Documents\TCLASS ELECTIVE 1\bin\Debug\net10.0\TCLASS ELECTIVE 1.runtimeconfig.json
+C:\Users\Owner\Documents\TCLASS ELECTIVE 1\bin\Debug\net10.0\TCLASS ELECTIVE 1.dll
+C:\Users\Owner\Documents\TCLASS ELECTIVE 1\bin\Debug\net10.0\TCLASS ELECTIVE 1.pdb
+C:\Users\Owner\Documents\TCLASS ELECTIVE 1\obj\Debug\net10.0\TCLASS ELECTIVE 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Documents\TCLASS ELECTIVE 1\obj\Debug\net10.0\TCLASS ELECTIVE 1.AssemblyInfoInputs.cache
+C:\Users\Owner\Documents\TCLASS ELECTIVE 1\obj\Debug\net10.0\TCLASS ELECTIVE 1.AssemblyInfo.cs
+C:\Users\Owner\Documents\TCLASS ELECTIVE 1\obj\Debug\net10.0\TCLASS ELECTIVE 1.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\TCLASS ELECTIVE 1\obj\Debug\net10.0\TCLASS ELECTIVE 1.dll
+C:\Users\Owner\Documents\TCLASS ELECTIVE 1\obj\Debug\net10.0\refint\TCLASS ELECTIVE 1.dll
+C:\Users\Owner\Documents\TCLASS ELECTIVE 1\obj\Debug\net10.0\TCLASS ELECTIVE 1.pdb
+C:\Users\Owner\Documents\TCLASS ELECTIVE 1\obj\Debug\net10.0\TCLASS ELECTIVE 1.genruntimeconfig.cache
+C:\Users\Owner\Documents\TCLASS ELECTIVE 1\obj\Debug\net10.0\ref\TCLASS ELECTIVE 1.dll
