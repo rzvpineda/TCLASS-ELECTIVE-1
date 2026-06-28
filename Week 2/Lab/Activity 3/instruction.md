@@ -1,0 +1,1 @@
+Using the template design of the activity 1, create a c# program that lets the user input that is needed to display the fields from activity 1.

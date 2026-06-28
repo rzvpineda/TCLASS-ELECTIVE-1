@@ -1,0 +1,14 @@
+/Users/ricksonzorenpineda/Documents/ TCLASS DICT PROGRAM/Elective 1 - C#/Week 2/Lab/sample/bin/Debug/net10.0/sample
+/Users/ricksonzorenpineda/Documents/ TCLASS DICT PROGRAM/Elective 1 - C#/Week 2/Lab/sample/bin/Debug/net10.0/sample.deps.json
+/Users/ricksonzorenpineda/Documents/ TCLASS DICT PROGRAM/Elective 1 - C#/Week 2/Lab/sample/bin/Debug/net10.0/sample.runtimeconfig.json
+/Users/ricksonzorenpineda/Documents/ TCLASS DICT PROGRAM/Elective 1 - C#/Week 2/Lab/sample/bin/Debug/net10.0/sample.dll
+/Users/ricksonzorenpineda/Documents/ TCLASS DICT PROGRAM/Elective 1 - C#/Week 2/Lab/sample/bin/Debug/net10.0/sample.pdb
+/Users/ricksonzorenpineda/Documents/ TCLASS DICT PROGRAM/Elective 1 - C#/Week 2/Lab/sample/obj/Debug/net10.0/sample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ricksonzorenpineda/Documents/ TCLASS DICT PROGRAM/Elective 1 - C#/Week 2/Lab/sample/obj/Debug/net10.0/sample.AssemblyInfoInputs.cache
+/Users/ricksonzorenpineda/Documents/ TCLASS DICT PROGRAM/Elective 1 - C#/Week 2/Lab/sample/obj/Debug/net10.0/sample.AssemblyInfo.cs
+/Users/ricksonzorenpineda/Documents/ TCLASS DICT PROGRAM/Elective 1 - C#/Week 2/Lab/sample/obj/Debug/net10.0/sample.csproj.CoreCompileInputs.cache
+/Users/ricksonzorenpineda/Documents/ TCLASS DICT PROGRAM/Elective 1 - C#/Week 2/Lab/sample/obj/Debug/net10.0/sample.dll
+/Users/ricksonzorenpineda/Documents/ TCLASS DICT PROGRAM/Elective 1 - C#/Week 2/Lab/sample/obj/Debug/net10.0/refint/sample.dll
+/Users/ricksonzorenpineda/Documents/ TCLASS DICT PROGRAM/Elective 1 - C#/Week 2/Lab/sample/obj/Debug/net10.0/sample.pdb
+/Users/ricksonzorenpineda/Documents/ TCLASS DICT PROGRAM/Elective 1 - C#/Week 2/Lab/sample/obj/Debug/net10.0/sample.genruntimeconfig.cache
+/Users/ricksonzorenpineda/Documents/ TCLASS DICT PROGRAM/Elective 1 - C#/Week 2/Lab/sample/obj/Debug/net10.0/ref/sample.dll
