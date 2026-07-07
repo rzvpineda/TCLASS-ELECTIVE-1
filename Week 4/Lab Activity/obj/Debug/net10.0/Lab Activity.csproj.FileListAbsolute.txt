@@ -1,0 +1,15 @@
+/Users/ricksonzorenpineda/Documents/ TCLASS DICT PROGRAM/TCLASS-ELECTIVE-1/Week 4/Lab Activity/bin/Debug/net10.0/Lab Activity
+/Users/ricksonzorenpineda/Documents/ TCLASS DICT PROGRAM/TCLASS-ELECTIVE-1/Week 4/Lab Activity/bin/Debug/net10.0/Lab Activity.deps.json
+/Users/ricksonzorenpineda/Documents/ TCLASS DICT PROGRAM/TCLASS-ELECTIVE-1/Week 4/Lab Activity/bin/Debug/net10.0/Lab Activity.runtimeconfig.json
+/Users/ricksonzorenpineda/Documents/ TCLASS DICT PROGRAM/TCLASS-ELECTIVE-1/Week 4/Lab Activity/bin/Debug/net10.0/Lab Activity.dll
+/Users/ricksonzorenpineda/Documents/ TCLASS DICT PROGRAM/TCLASS-ELECTIVE-1/Week 4/Lab Activity/bin/Debug/net10.0/Lab Activity.pdb
+/Users/ricksonzorenpineda/Documents/ TCLASS DICT PROGRAM/TCLASS-ELECTIVE-1/Week 4/Lab Activity/obj/Debug/net10.0/Lab Activity.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ricksonzorenpineda/Documents/ TCLASS DICT PROGRAM/TCLASS-ELECTIVE-1/Week 4/Lab Activity/obj/Debug/net10.0/Lab Activity.AssemblyInfoInputs.cache
+/Users/ricksonzorenpineda/Documents/ TCLASS DICT PROGRAM/TCLASS-ELECTIVE-1/Week 4/Lab Activity/obj/Debug/net10.0/Lab Activity.AssemblyInfo.cs
+/Users/ricksonzorenpineda/Documents/ TCLASS DICT PROGRAM/TCLASS-ELECTIVE-1/Week 4/Lab Activity/obj/Debug/net10.0/Lab Activity.csproj.CoreCompileInputs.cache
+/Users/ricksonzorenpineda/Documents/ TCLASS DICT PROGRAM/TCLASS-ELECTIVE-1/Week 4/Lab Activity/obj/Debug/net10.0/Lab Activity.sourcelink.json
+/Users/ricksonzorenpineda/Documents/ TCLASS DICT PROGRAM/TCLASS-ELECTIVE-1/Week 4/Lab Activity/obj/Debug/net10.0/Lab Activity.dll
+/Users/ricksonzorenpineda/Documents/ TCLASS DICT PROGRAM/TCLASS-ELECTIVE-1/Week 4/Lab Activity/obj/Debug/net10.0/refint/Lab Activity.dll
+/Users/ricksonzorenpineda/Documents/ TCLASS DICT PROGRAM/TCLASS-ELECTIVE-1/Week 4/Lab Activity/obj/Debug/net10.0/Lab Activity.pdb
+/Users/ricksonzorenpineda/Documents/ TCLASS DICT PROGRAM/TCLASS-ELECTIVE-1/Week 4/Lab Activity/obj/Debug/net10.0/Lab Activity.genruntimeconfig.cache
+/Users/ricksonzorenpineda/Documents/ TCLASS DICT PROGRAM/TCLASS-ELECTIVE-1/Week 4/Lab Activity/obj/Debug/net10.0/ref/Lab Activity.dll
