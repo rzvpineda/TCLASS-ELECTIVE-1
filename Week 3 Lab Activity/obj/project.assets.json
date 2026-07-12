@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Zoren\\Documents\\TCLASS\\TCLASS-ELECTIVE-1\\Week 4\\Lab Activity\\Lab Activity.csproj",
-      "projectName": "Lab Activity",
-      "projectPath": "c:\\Users\\Zoren\\Documents\\TCLASS\\TCLASS-ELECTIVE-1\\Week 4\\Lab Activity\\Lab Activity.csproj",
+      "projectUniqueName": "c:\\Users\\Zoren\\Documents\\TCLASS\\TCLASS-ELECTIVE-1\\Week 3 Lab Activity\\Week 3 Lab Activity.csproj",
+      "projectName": "Week 3 Lab Activity",
+      "projectPath": "c:\\Users\\Zoren\\Documents\\TCLASS\\TCLASS-ELECTIVE-1\\Week 3 Lab Activity\\Week 3 Lab Activity.csproj",
       "packagesPath": "C:\\Users\\Zoren\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Zoren\\Documents\\TCLASS\\TCLASS-ELECTIVE-1\\Week 4\\Lab Activity\\obj\\",
+      "outputPath": "c:\\Users\\Zoren\\Documents\\TCLASS\\TCLASS-ELECTIVE-1\\Week 3 Lab Activity\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
