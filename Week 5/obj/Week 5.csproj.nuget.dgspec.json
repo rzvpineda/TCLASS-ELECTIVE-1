@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Zoren\\Documents\\TCLASS\\TCLASS-ELECTIVE-1\\Week 2\\Lab\\sample\\sample.csproj": {}
+    "C:\\Users\\Zoren\\Documents\\TCLASS\\TCLASS-ELECTIVE-1\\Week 5\\Week 5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Zoren\\Documents\\TCLASS\\TCLASS-ELECTIVE-1\\Week 2\\Lab\\sample\\sample.csproj": {
+    "C:\\Users\\Zoren\\Documents\\TCLASS\\TCLASS-ELECTIVE-1\\Week 5\\Week 5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Zoren\\Documents\\TCLASS\\TCLASS-ELECTIVE-1\\Week 2\\Lab\\sample\\sample.csproj",
-        "projectName": "sample",
-        "projectPath": "C:\\Users\\Zoren\\Documents\\TCLASS\\TCLASS-ELECTIVE-1\\Week 2\\Lab\\sample\\sample.csproj",
+        "projectUniqueName": "C:\\Users\\Zoren\\Documents\\TCLASS\\TCLASS-ELECTIVE-1\\Week 5\\Week 5.csproj",
+        "projectName": "Week 5",
+        "projectPath": "C:\\Users\\Zoren\\Documents\\TCLASS\\TCLASS-ELECTIVE-1\\Week 5\\Week 5.csproj",
         "packagesPath": "C:\\Users\\Zoren\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Zoren\\Documents\\TCLASS\\TCLASS-ELECTIVE-1\\Week 2\\Lab\\sample\\obj\\",
+        "outputPath": "C:\\Users\\Zoren\\Documents\\TCLASS\\TCLASS-ELECTIVE-1\\Week 5\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
